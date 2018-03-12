@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "tk.greenmuncies"
+        id        = "tk.greenmunchies"
         version   = "1">
     <name>Green Munchies </name>
 
@@ -11,7 +11,7 @@
         
     <preference name="android-minSdkVersion" value="14" />
 
-
+<plugin name"cordova-plugin-whitelist" />
 <plugin name="cordova-plugin-device" />
 <plugin name="cordova-plugin-file" />
 <plugin name="cordova-plugin-inappbrowser" />
