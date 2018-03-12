@@ -65,7 +65,7 @@ $('#formulario').submit(function() {
 	.done(function(respuestaServer) {
 
 	$('#listacom').empty();
-	$.getJSON("traer.php", function(resultados){
+	$.getJSON("http://greenmunchies.tk/app712/traer.php", function(resultados){
             
 			for(i = 0; i<resultados.length; i++){
 				$.each(resultados[i], function(i, campo){
@@ -105,7 +105,7 @@ $('#formulario')[0].reset();
         $.getJSON( archivoValidacion, { titulo:datosTitulo ,  nombre:datosNombre, cuerpo:datosCuerpo}).done(function(respuestaServer) {
 			
 			$('#vermas').empty();
-	$.getJSON("traerd.php", function(resultados){
+	$.getJSON("http://greenmunchies.tk/app712/traerd.php", function(resultados){
 			var f = 0;
 			f++;
             
