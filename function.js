@@ -111,7 +111,7 @@ $('#formulario')[0].reset();
             
 			for(k = 0; k<resultados.length; k++){
 				$.each(resultados[k], function(k, com){
-               	 	$("#vermas").append('<a href="#debate1" onClick="info(' + f +')" id="'+ f +'">' + com + '</a></br>');
+               	 	$("#vermas").append('<div class="esto"><a href="#debate1" onClick="info(' + f +')" id="'+ f +'">' + com + '</a></div></br>');
             	});
 				
 				f++;
