@@ -1,0 +1,398 @@
+body{
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	
+	
+	
+	}
+
+
+
+#home {
+	background-color:#87D998;
+	
+	
+	}
+	
+#home #mypanelc{
+	
+	background-color:#FFB562;
+	
+	}
+	
+#home #mypanelc a{
+	
+	
+	background-color:#FFAB22;
+	color:#000;
+	
+	}
+	
+	#home #heade1c{
+		
+		background-color:#FFF;
+		
+		}
+		
+	#home #heade1c #burger{
+		
+		background-color:#FF7E27;
+		
+		}
+		
+	#home #heade1c a{
+		
+		background-color:#FF7E27;
+		
+		}
+		
+		
+		
+	
+	
+#home #grande{
+	
+	background-color:#FFDA3E;
+	
+	padding-left:3px;
+	
+	
+	}
+	
+	#home #vermas{
+	
+	background-color:#FFE1AF;
+	
+	padding-left:3px;
+	
+	}
+	
+#home #peque1 {
+	
+	background-color:#FFDA3E;
+	
+	padding-left:3px;
+	
+	}
+
+#home #peque2 {
+	
+	background-color:#FFDA3E;
+	padding-left:3px;
+	
+	}
+	
+	#home h1{
+	
+	color:#FFF;
+	
+	
+	}
+	
+#home h2{
+	
+	color:#FFF;
+	
+	
+	}
+
+#home h3{
+	
+	color:#000;
+	
+	
+	}
+#home h4{
+	
+	color:#FFF;
+	
+	
+	}
+	
+	#home #anon{
+	
+	color:#FFF;
+	
+	
+	}
+	
+	
+#debate1 #mypanel{
+	
+	background-color:#FFB562;
+	
+	}
+	
+#debate1 #mypanel a{
+	
+	background-color:#FFAB22;
+	color:#000;
+	
+	}
+	
+	
+#debate1{
+background-color:#87D998;	
+
+	
+	}
+#debate1 #content #main{
+	
+	background-color:#FFDA3E;
+	
+	padding:10px;
+	
+	
+	
+	}
+	
+	#debate1 h2{
+	
+	color:#FFF;
+	
+	
+	}
+	
+	
+	#debate1 #comentarios #li{
+		list-style-type:none;
+		
+		}
+	
+#debate1 h1{
+	
+	color:#AE0002;
+	
+	
+	}
+	
+#debate1 #header{
+	
+	background-color:#FFF;
+	
+	}
+	
+	#debate1 #header a{
+	
+	background-color:#FF7E27;
+	
+	}
+	
+	#debate1 #header #boton{
+	
+	background-color:#FF7E27;
+	
+	}
+#debate1 #menu{
+		
+		
+	
+	}
+	
+	#debate1 h3{
+		
+		color:#FFF;
+		
+		margin-left:10px;
+		
+		
+		}
+#debate1 #content #comentarios{
+	background-color:#FFDA3E;
+	padding:10px;
+
+	
+	}
+	
+	
+	#filtros #mypanelf{
+	
+	background-color:#FFB562;
+	
+	}
+	
+#filtros #mypanelf a{
+	
+	background-color:#FFAB22;
+	color:#000;
+	
+	}
+#filtros{
+	background-color:#87D998;
+	
+	}
+	
+#filtros #control #pop{
+	background-color:#FFA035;
+	color:#FFF;
+		
+	}
+	
+#filtros #control #alf{
+	background-color:#FFA035;
+	color:#FFF;
+		
+	}
+
+#filtros #control #hola{
+	background-color:#FFA035;
+	color:#FFF;
+		
+	}
+#filtros #control #cat{
+	
+	background-color:#FFA035;
+	color:#FFF;
+	
+	}
+	
+#filtros #heade1r{
+	background-color:#fff;
+	
+	}
+	
+	#filtros #heade1r a{
+	background-color:#FF7E27
+	
+	}
+	
+	#filtros #heade1r #elboton{
+	background-color:#FF7E27;
+	
+	}
+	
+	#filtros h2{
+		color:#FFF;
+				
+		}
+		
+		#filtros #vermas{
+			color:#FFF;
+			padding:10px;
+			background:#B4DF9D;
+		
+			
+			}
+			
+			#filtros #vermas a{
+			font-size:20px;
+			padding:10px;
+			text-decoration:none;
+			color:#FFF;
+			margin-bottom:100px;
+			background-color:#FFDA3E;
+				
+				}
+				
+				.esto{
+					margin:10px;
+					
+					
+					}
+	
+#debate{
+	
+	background-color:#87D998;
+	
+	}
+	
+#debate h2{
+	
+	color:#FFF;
+	
+	}
+	
+#debate #select-choice-1{
+		
+		background-color:#FFA035;
+	color:#FFF;
+		
+		}
+#debate a{
+		
+		background-color:#FFA035;
+	color:#FFF;
+		
+		}
+		
+	#debate #headerd{
+		
+		background-color:#FFF;
+		
+		}
+
+#debate #headerd a{
+		
+		background-color:#FF7E27;
+		
+		}
+		
+		
+	#debate #headerd button{
+		
+		background-color:#FF7E27;
+		
+		}
+		
+		
+	#debate #mypaneld{
+	
+	background-color:#FFB562;
+	
+	}
+	
+#debate #mypaneld a{
+	
+	background-color:#FFAB22;
+	color:#000;
+	
+	}
+	
+	#mapa #mypanele{
+			background-color:#FFB562;
+
+		
+		
+		}
+		
+		#mapa #mypanele a{
+			background-color:#FFAB22;
+	color:#000;
+			
+			
+			
+			}
+	
+	#mapa #headee button{
+				background-color:#FF7E27;
+
+		
+		}
+	
+	#mapa #headee{
+				background-color:#FFF;
+
+		
+		
+		}
+		
+		#mapa #headee a{
+				background-color:#FF7E27;
+
+		
+		
+		}
+		
+		#mapa{
+			background-color:#87D998;
+			
+			
+			}
+			
+			#mapa h2{
+				color:#FFF;				
+				
+				
+				
+				}
+	
+	
