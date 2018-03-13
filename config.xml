@@ -17,13 +17,14 @@
 <plugin name="cordova-plugin-inappbrowser" />
 <plugin name="cordova-plugin-statusbar" />
         
-        <platform name="android">
        
         <config-file target="AndroidManifest.xml" parent="/manifest">
             <uses-permission android:name="android.permission.CAMERA"/>
+            <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+<uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
         </config-file>
        
-    </platform>
 
 
 
