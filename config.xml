@@ -16,17 +16,9 @@
 <plugin name="cordova-plugin-file" />
 <plugin name="cordova-plugin-inappbrowser" />
 <plugin name="cordova-plugin-statusbar" />
-        
-       
-            <uses-permission android:name="android.permission.CAMERA"/>
-            <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-<uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
-      
-       
+<plugin name="cordova-plugin-geolocation" />
 
-
-
+ 
     <preference name="AndroidPersistentFileLocation" value="Internal" />
     <preference name="permissions" value="none" />
     <preference name="phonegap-version" value="cli-6.5.0" />
