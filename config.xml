@@ -11,14 +11,19 @@
         
     <preference name="android-minSdkVersion" value="14" />
 
-<plugin name="cordova-plugin-whitelist" />
+<plugin name"cordova-plugin-whitelist" />
 <plugin name="cordova-plugin-device" />
 <plugin name="cordova-plugin-file" />
 <plugin name="cordova-plugin-inappbrowser" />
 <plugin name="cordova-plugin-statusbar" />
-<plugin name="cordova-plugin-geolocation"/>
 
-    @GEOLOCATION
+    <platform name="android">
+        
+        <config-file target="AndroidManifest.xml" parent="/manifest">
+            <uses-permission android:name="android.permission.CAMERA"/>
+        </config-file>
+        
+    </platform>
 
     <preference name="AndroidPersistentFileLocation" value="Internal" />
     <preference name="permissions" value="none" />
