@@ -25,10 +25,7 @@ $(document).ready(function(){
 			} 
         });
 		
-
-    });
-	
-
+		 
 var Latitude = undefined;
 var Longitude = undefined;
 
@@ -106,8 +103,7 @@ function watchMapPosition() {
     return navigator.geolocation.watchPosition
     (onMapWatchSuccess, onMapError, { enableHighAccuracy: true });
 }
-
-
+	
 
 	function info(x){
 	$('#main').empty();
