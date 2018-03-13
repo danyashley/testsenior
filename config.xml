@@ -17,13 +17,7 @@
 <plugin name="cordova-plugin-inappbrowser" />
 <plugin name="cordova-plugin-statusbar" />
 
-    <platform name="android">
-        
-        <config-file target="AndroidManifest.xml" parent="/manifest">
-            <uses-permission android:name="android.permission.CAMERA"/>
-        </config-file>
-        
-    </platform>
+
 
     <preference name="AndroidPersistentFileLocation" value="Internal" />
     <preference name="permissions" value="none" />
