@@ -11,11 +11,12 @@
         
     <preference name="android-minSdkVersion" value="14" />
 
-<plugin name="cordova-plugin-whitelist" />
+<plugin name"cordova-plugin-whitelist" />
 <plugin name="cordova-plugin-device" />
 <plugin name="cordova-plugin-file" />
 <plugin name="cordova-plugin-inappbrowser" />
 <plugin name="cordova-plugin-statusbar" />
+<plugin name="cordova-plugin-geolocation"/>
 
     @GEOLOCATION
 
