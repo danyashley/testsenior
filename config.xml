@@ -11,11 +11,19 @@
         
     <preference name="android-minSdkVersion" value="14" />
 
-<plugin name"cordova-plugin-whitelist" />
+<plugin name="cordova-plugin-whitelist" />
 <plugin name="cordova-plugin-device" />
 <plugin name="cordova-plugin-file" />
 <plugin name="cordova-plugin-inappbrowser" />
 <plugin name="cordova-plugin-statusbar" />
+        
+        <platform name="android">
+       
+        <config-file target="AndroidManifest.xml" parent="/manifest">
+            <uses-permission android:name="android.permission.CAMERA"/>
+        </config-file>
+       
+    </platform>
 
 
 
